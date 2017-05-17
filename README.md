@@ -1,7 +1,7 @@
 Initial dataset adapted from https://github.com/ishank26/sanskrit-reslstm
 
 ## Intial plan
-### Scrape data from http://sacred-texts.com/hin/mbs/index.htm
+### Scrape data 
 ### Decide initial tasks
 - learn skipgram, skip thought vectors
 - cluster text by similarity
