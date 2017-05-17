@@ -8,3 +8,4 @@ Initial dataset adapted from https://github.com/ishank26/sanskrit-reslstm
 - Learn a LM for generating Sanskrit text
 - Generate text analogies
 - Cross-lingual concept learning using "semantic" loss functions.
+- Question answering agents (how to get data? transfer concepts from other languages?)
